@@ -12,4 +12,6 @@ const divide = (a, b) => a / b;
   return a / b;
 }
 //  유료버전 나눗셈 
-const divide_for_premium ={ a/ b}
+const divide_for_premium ={ a/ b};
+//무료버전
+const divide_for_free = (a, b) => a / b;
