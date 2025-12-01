@@ -11,3 +11,5 @@ const divide = (a, b) => a / b;
   if (b === 0) return;
   return a / b;
 }
+//무료버전
+const divide_for_free = (a, b) => a / b;
