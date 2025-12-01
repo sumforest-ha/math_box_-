@@ -4,6 +4,7 @@ const substract = (a, b) => a - b;
 
 const multiply = (a, b) => a * b;
 
+// 나눗셈
 // type (x:number, y:number) -> number;
 const divide = (a, b) => a / b;
 {
