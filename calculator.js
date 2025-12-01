@@ -13,3 +13,6 @@ const divide = (a, b) => a / b;
 }
 //무료버전
 const divide_for_free = (a, b) => a / b;
+
+// type (x:number, y:number) -> number;
+const square = (a) => a * b;
